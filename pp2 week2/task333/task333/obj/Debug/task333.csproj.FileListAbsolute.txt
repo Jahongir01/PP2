@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\pp2 week2\task333\task333\bin\Debug\task333.exe.config
+C:\Users\Admin\Desktop\pp2 week2\task333\task333\bin\Debug\task333.exe
+C:\Users\Admin\Desktop\pp2 week2\task333\task333\bin\Debug\task333.pdb
+C:\Users\Admin\Desktop\pp2 week2\task333\task333\obj\Debug\task333.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\pp2 week2\task333\task333\obj\Debug\task333.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\pp2 week2\task333\task333\obj\Debug\task333.exe
+C:\Users\Admin\Desktop\pp2 week2\task333\task333\obj\Debug\task333.pdb
